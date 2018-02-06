@@ -8,13 +8,13 @@
 
 ;now create an ini section for every location, with the same same
 [My home]
-latitude = <latitude>
-longitude = <longitude>
+latitude = 12.924138
+longitude = 80.151056
 chat_id = "<id of the chat where to send the notification>"
 
 [My work]
-latitude = <latitude>
-longitude = <longitude>
+latitude = 12.927397
+longitude = 80.126831
 chat_id = "<id of the chat where to send the notification>"
 
 ;*/ ?>
