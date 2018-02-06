@@ -1,9 +1,9 @@
 ;<?php /*
 ;The php tags keep this file secure from web views
-HTTP_TOKEN = "<insert bot token here>";
-SECRET = "<a string to insert inside webhook to increase transmissions security>";
-BOT_NAME = "<bot's nickname>";
-DEVELOPER_CHAT_ID = "<your personal chat id, to receive suggestions>";
+HTTP_TOKEN = "545387130:AAE9d8CXZx6JWAQU-iGCVqnkCdAz8-DaFAk";
+SECRET = "max";
+BOT_NAME = "tbm_raidersbot";
+DEVELOPER_CHAT_ID = "545387130";
 
 [pokemon]
 1 = "Bulbasaur"
